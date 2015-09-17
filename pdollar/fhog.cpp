@@ -4,6 +4,7 @@
 using namespace std;
 
 #include "fhog.h"
+#undef MIN
 
 // platform independent aligned memory allocation (see also alFree)
 void* alMalloc( size_t size, int alignment ) {

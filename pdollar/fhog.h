@@ -7,7 +7,6 @@
 #include "sse.hpp"
 
 #include <opencv2/core/core.hpp>
-#undef MIN
 
 /**
     Inputs:

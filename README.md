@@ -1,2 +1,3 @@
-# HOG Feature in C++
-from Piotr's Image & Video Matlab Toolbox
+# fhog for opencv2
+1. from pdollar's toolbox
+2. from DPM
